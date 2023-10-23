@@ -14,6 +14,10 @@ My application is simple application that once executed, shows GUI prompting use
 
 
 
+https://github.com/Aleksandra1401/RSA-AES-Encryption-Decryption/assets/69097147/17a29378-7eae-467d-a9e9-d281f11d66b1
+
+
+
 
 
 
